@@ -140,7 +140,7 @@
 
 /* Mac  laptops ----------- */
 
-@media only screen and (min-width: 1690px) {
+@media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 2) and (min-resolution: 192dpi) {
     .toolmenu {
         height: 1326px;
     }
@@ -169,6 +169,8 @@
         min-width: 125px!important;
     }
 }
+
+@media only screen and (min-width: 1650px) {}
 
 
 /* Large screens ----------- */
@@ -201,8 +203,11 @@
     .bugtableasi {
         min-width: 154px!important;
     }
-    .bugdetailPage {
+    .bugdetailPage .bug-content .test-form .test-form-tem .bug-form .build-form .build-form-temp {
         height: 945px !important;
+    }
+    .pageRecord {
+        left: 1780px!important;
     }
 }
 
