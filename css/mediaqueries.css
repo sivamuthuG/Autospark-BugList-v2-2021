@@ -137,6 +137,9 @@
     }
 }
 
+
+/* Mac  laptops ----------- */
+
 @media only screen and (min-width: 1600px) and (max-width: 1750px) {
     .toolmenu {
         height: 1326px;
@@ -145,7 +148,7 @@
         top: 830px;
     }
     .bug-add-btn1 {
-        margin-left: 635px !important;
+        margin-left: 550px !important;
     }
     .bugtabletit {
         min-width: 669px !important;
@@ -165,10 +168,10 @@
     .bugtableasi {
         min-width: 125px!important;
     }
+    .pageRecord {
+        left: 1524px!important;
+    }
 }
-
-
-/* Mac  laptops ----------- */
 
 
 /* @media screen and (min-device-width: 1200px) and (max-device-width: 1600px) and (-webkit-min-device-pixel-ratio: 2) and (min-resolution: 192dpi) {}
