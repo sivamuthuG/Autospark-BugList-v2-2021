@@ -201,6 +201,9 @@
     .bugtableasi {
         min-width: 154px!important;
     }
+    .bugdetailPage {
+        height: 945px !important;
+    }
 }
 
 
