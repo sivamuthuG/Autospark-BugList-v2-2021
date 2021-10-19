@@ -209,7 +209,13 @@
     .bugtableasi {
         min-width: 154px!important;
     }
-    .bugdetailPage .bug-content .test-form .test-form-tem .bug-form .build-form .build-form-temp {
+    .bugdetailPage,
+    .bug-content,
+    .test-form,
+    .test-form-tem,
+    .bug-form,
+    .build-form,
+    .build-form-temp {
         height: 945px !important;
     }
     .pageRecord {
