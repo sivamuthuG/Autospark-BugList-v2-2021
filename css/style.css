@@ -527,8 +527,9 @@ td {
     text-align: end;
     position: fixed;
     height: 55px;
-    width: 82%;
+    width: 92%;
     margin-top: -7px;
+    left: 85px;
     z-index: 1;
     background: #eae9e9;
 }
@@ -741,6 +742,7 @@ td {
     position: fixed;
     background: #eae9e9;
     z-index: 2;
+    width: 91%;
     height: 55px;
     margin-top: -15px;
 }
