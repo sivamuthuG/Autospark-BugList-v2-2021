@@ -148,22 +148,22 @@
         top: 916px;
     }
     .bugtabletit {
-        min-width: 777px;
+        min-width: 777px !important;
     }
     .bugtablerep {
-        min-width: 187px;
+        min-width: 187px!important;
     }
     .bugtabledate {
-        min-width: 100px;
+        min-width: 100px!important;
     }
     .bugtablesrc {
-        min-width: 251px;
+        min-width: 251px!important;
     }
     .bugtablestatus {
-        min-width: 172px;
+        min-width: 172px!important;
     }
     .bugtableasi {
-        min-width: 154px;
+        min-width: 154px!important;
     }
 }
 
