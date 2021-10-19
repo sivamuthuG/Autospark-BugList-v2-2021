@@ -138,6 +138,39 @@
 }
 
 
+/* Mac  laptops ----------- */
+
+@media only screen and (min-width: 1750px) {
+    .toolmenu {
+        height: 1326px;
+    }
+    .form-footer {
+        top: 830px;
+    }
+    .bug-add-btn1 {
+        margin-left: 635px !important;
+    }
+    .bugtabletit {
+        min-width: 669px !important;
+    }
+    .bugtablerep {
+        min-width: 145px!important;
+    }
+    .bugtabledate {
+        min-width: 90px!important;
+    }
+    .bugtablesrc {
+        min-width: 229px!important;
+    }
+    .bugtablestatus {
+        min-width: 161px!important;
+    }
+    .bugtableasi {
+        min-width: 125px!important;
+    }
+}
+
+
 /* Large screens ----------- */
 
 @media only screen and (min-width: 1824px) {
