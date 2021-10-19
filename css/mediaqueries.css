@@ -145,7 +145,25 @@
         height: 900px;
     }
     .form-footer {
-        top: 830px;
+        top: 916px;
+    }
+    .bugtabletit {
+        min-width: 777px;
+    }
+    .bugtablerep {
+        min-width: 187px;
+    }
+    .bugtabledate {
+        min-width: 100px;
+    }
+    .bugtablesrc {
+        min-width: 251px;
+    }
+    .bugtablestatus {
+        min-width: 172px;
+    }
+    .bugtableasi {
+        min-width: 154px;
     }
 }
 
