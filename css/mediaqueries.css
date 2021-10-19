@@ -147,6 +147,9 @@
     .form-footer {
         top: 916px;
     }
+    .bug-add-btn1 {
+        margin-left: 635px !important;
+    }
     .bugtabletit {
         min-width: 777px !important;
     }
